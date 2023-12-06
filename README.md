@@ -10,6 +10,7 @@ This repository is created by [Aayush Kumar](https://github.com/kayush8) to docu
 
 1. [Introduction to Python](01_Introduction_to_Python/README.md)
 2. [Comments in Python](02_Comments_in_Python/README.md)
+3. [Variables](03_Variables/README.md)
 
 Each topic contains code examples, explanations, and exercises to help in understanding Python concepts.
 
