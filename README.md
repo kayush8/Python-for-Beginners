@@ -6,6 +6,12 @@ Welcome to my Python Learning Repository! This repository is a collection of Pyt
 
 This repository is created by [Aayush Kumar](https://github.com/kayush8) to document and share my journey in learning Python programming.
 
+## Topics Covered
+
+1. [Introduction to Python](01_Introduction_to_Python/README.md)
+
+Each topic contains code examples, explanations, and exercises to help in understanding Python concepts.
+
 ## Usage
 
 Feel free to navigate through the folders and files to explore different Python topics. You can use this repository as a reference, study material, or practice exercises.
