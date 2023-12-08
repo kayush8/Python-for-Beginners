@@ -14,6 +14,8 @@ variable_name = value
 ### Examples:
 
 ```python
+# variable_declaration.py
+
 # A String
 name = "John"
 
@@ -35,6 +37,8 @@ print("Salary:", salary)  # 5932.42
 Variables in Python can be reassigned to new values of different types without explicit type declaration.
 
 ```python
+# reassigning_variable.py
+
 x = 5  # x is an integer
 x = "Hello!"  # x is now a string
 
