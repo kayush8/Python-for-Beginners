@@ -9,3 +9,4 @@ Variables are containers used to store data values in Python. They act as placeh
 1. [Variable Declaration](01_Variable_Declaration/README.md)
 2. [Variable Naming Rules](02_Variable_Naming_Rules/README.md)
 3. [Variable Scope](03_Variable_Scope/README.md)
+4. [Variable Operations](04_Variable_Operations/README.md)
