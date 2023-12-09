@@ -2,7 +2,7 @@
 
 Variable scope refers to the accessibility or visibility of variables within different parts of a program. In Python, variables can have different scopes, primarily
 
-### Global Scope
+## Global Scope
 
 Variables defined outside of all functions or in the global scope can be accessed from anywhere in the code, including inside functions.
 
@@ -18,7 +18,7 @@ my_function()  # Output: 20
 print(global_var)  # Output: 20
 ```
 
-### Local Scope
+## Local Scope
 
 Variables defined within a function have a local scope. They are accessible only within that function and cannot be accessed from outside.
 

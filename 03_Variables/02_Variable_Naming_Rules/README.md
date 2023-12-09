@@ -1,6 +1,10 @@
-# Rules for naming a variable
+# Variable Naming Rules
 
-When it comes to naming variables in Python, there are certain rules and conventions to follow to ensure clarity and consistency in your code. Here are the key rules for naming variables in Python
+When it comes to naming variables in Python, there are certain rules and conventions to follow to ensure clarity and consistency in your code.
+
+## Rules for naming a variable
+
+Here are the key rules for naming variables in Python
 
 - Variable names can consist of `alpha-numeric characters and underscores (\_)`. They must start with a letter or an underscore.
 - Python is case-sensitive, meaning `my_var`, `My_Var`, and `MY_VAR` would be considered as three different variables.
